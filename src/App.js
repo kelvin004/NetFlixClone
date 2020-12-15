@@ -4,6 +4,8 @@ import Row from "./Components/Row";
 import requests from "./API/requests";
 import Banner from "./Components/Banner";
 
+//1.1 Version started 
+
 function App() {
   return (
     <div className="App">
