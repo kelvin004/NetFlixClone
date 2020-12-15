@@ -24,6 +24,10 @@ function App() {
   );
 }
 
+<<<<<<< HEAD
 //This is old verison
+=======
+//This has been added from server
+>>>>>>> a423e9eaf0d528a4db050082cfb0f148ac4f0409
 
 export default App;
